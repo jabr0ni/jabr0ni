@@ -1,4 +1,4 @@
-Under construction. Need to be bothered to commit code here.
+projects I start and will probably never finish :)
 
 <!---
 jabr0ni/jabr0ni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
